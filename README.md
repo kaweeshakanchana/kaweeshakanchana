@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kanchana Wickramarathna</h1>
-<h3 align="center">A passionate frontend developer from Srilanka</h3>
+<h3 align="center">A passionate full stack developer from Srilanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaweeshakanchana&label=Profile%20views&color=0e75b6&style=flat" alt="kaweeshakanchana" /> </p>
 
-- 📫 How to reach me **Kanchanakaweesha05@gmail.com**
+- 📫 How to reach me **kanchanakaweesha05@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
